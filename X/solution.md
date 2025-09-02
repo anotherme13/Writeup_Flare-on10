@@ -1,4 +1,4 @@
-So basically I just opened X.dll by Dnspy and after watching every method carefully, I found out the flag in the _lockButton_Click.
+So basically, I just opened X.dll with Dnspy and after examining each method carefully, I found out the flag inside the _lockButton_Click method.
 ```C#
 // monogame1.Game1
 // Token: 0x06000023 RID: 35 RVA: 0x000027F0 File Offset: 0x000009F0
